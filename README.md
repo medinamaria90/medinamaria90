@@ -6,4 +6,6 @@ On the side, I enjoy programming in Python, JavaScript, or other languages, expl
 
 Beyond coding, I'm a curious mind and a bit of a geek. I love books, science, and technology. Coding excites me because it offers daily opportunities for growth and problem-solving. 
 
+My portfolio: https://medinamaria90.eu.pythonanywhere.com/
+
 
